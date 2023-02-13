@@ -12,9 +12,7 @@ public class JenkinsTestApplication {
 			.getLogger(JenkinsTestApplication.class);
 	public void info() {
 		
-		log.info("Application Started");
-		
-	}
+		log.info("Application Started");	}
 	
 	
 	public static void main(String[] args) {
